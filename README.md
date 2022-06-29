@@ -64,8 +64,6 @@ $ npm run build
 This task will create a distribution version of the project
 inside your local `dist/` folder
 
-Supported options and result fields for the `useBasicFetch` hook are listed below.
-
 ## Authors
 
 - **Raz Kapuya** - _Initial work_
