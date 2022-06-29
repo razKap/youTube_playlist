@@ -43,6 +43,8 @@ $ npm install
 
 ### Serving the app ( including the server )
 
+- before running the app make sure port 3030 and 3000 is free.
+
 ```sh
 $ npm run dev
 ```
@@ -61,14 +63,6 @@ $ npm run build
 
 This task will create a distribution version of the project
 inside your local `dist/` folder
-
-## API
-
-### useBasicFetch
-
-```js
-useBasicFetch((url: string = ""), (delay: number = 0));
-```
 
 Supported options and result fields for the `useBasicFetch` hook are listed below.
 
