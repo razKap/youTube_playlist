@@ -1,2 +1,2 @@
 # youTube_playlist
-This application allow you tu create a youTube playlist !
+This application allow you to create a youTube playlist !
